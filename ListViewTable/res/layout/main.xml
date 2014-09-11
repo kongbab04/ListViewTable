@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:background="#FFFFFF"
+	android:layout_height="fill_parent">
+	
+	<com.android.listview.table.ListViewTable
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical"
+		>
+		<TableLayout android:layout_height="wrap_content"
+			android:layout_width="match_parent" android:id="@+id/headerTable">
+			<TableRow style="@style/tableHeaderRow">
+				<TextView style="@style/tableHeaderText" android:text="@string/header_text1"  />
+				<TextView style="@style/tableHeaderText" android:text="@string/header_text1"  />
+				<TextView style="@style/tableHeaderText" android:text="@string/header_text2"  />
+				<TextView style="@style/tableHeaderText" android:text="@string/header_text3" />
+			</TableRow>
+			<TableRow style="@style/tableBodyRow">
+				<TextView android:text="@string/dummy" style="@style/tableBodyText" android:height="0dp" />
+				<TextView android:text="@string/dummy" style="@style/tableBodyText"
+					android:height="0dp" />
+				<TextView android:text="@string/dummy" style="@style/tableBodyText" android:height="0dp" />
+				<TextView android:text="@string/dummy" style="@style/tableBodyText" android:height="0dp" />
+			</TableRow>
+		</TableLayout>
+		<!-- Table Body -->
+		<ScrollView android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<TableLayout android:layout_height="wrap_content"
+				android:layout_width="match_parent" android:id="@+id/bodyTable">
+
+			</TableLayout>
+		</ScrollView>
+	</com.android.listview.table.ListViewTable> 
+</LinearLayout>

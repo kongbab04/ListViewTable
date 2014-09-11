@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World!</string>
+	<string name="app_name">ListViewTable</string>
+	
+	<string name="dummy">Dummy</string>
+	
+	<string name="header_text1">h 1</string>
+	<string name="header_text2">h 2</string>
+	<string name="header_text3">h 3</string>
+</resources>
