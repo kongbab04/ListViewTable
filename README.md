@@ -5,9 +5,10 @@ LinearLayoutのonLayout時にTableLayoutのCellのWidthを調整して表示す�
 
 実行すると以下のようになります。
 
-<img border="0" src="http://1.bp.blogspot.com/-B6U_6qCrB18/VDH0ELRXmSI/AAAAAAAAAPM/nOscQ77Kc-M/s400/2.result_1.png" />
+<img border="0" src="http://2.bp.blogspot.com/-tfy9Ad-v10w/VDHz16TZQnI/AAAAAAAAAO8/E4rVPH5J5yg/s400/1.result_1.png" />
 
-<img border="0" src="http://2.bp.blogspot.com/-3-pm-XjLQDU/VDH0JjGKMwI/AAAAAAAAAPU/no8b1yeMaHE/s400/2.result_2.png" />
+<img border="0" src="http://4.bp.blogspot.com/-TktxESYGlZo/VDHz7qTKE1I/AAAAAAAAAPE/NyxH3h2y-hU/s400/1.result_2.png" />
+
 
 ブログの記事のURLは以下のようになります。
 
